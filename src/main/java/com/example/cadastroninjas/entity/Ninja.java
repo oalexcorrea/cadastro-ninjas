@@ -27,6 +27,8 @@ public class Ninja {
 
     private String imgUrl;
 
+    private String gender;
+
     private String rank;
 
 
